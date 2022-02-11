@@ -2,3 +2,4 @@
 
 Fullstack Academy workshop.
 
+https://gameoflife-yo.netlify.app/
